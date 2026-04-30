@@ -42,5 +42,5 @@ I specialize in building intelligent, data-driven solutions that bridge the gap 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/abdullah-alghamdi](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [linkedin.com/in/abdullah-alghamdi](www.linkedin.com/in/abdullah-alghamdi7)
 - **Email:** [aalgha7@yourdomain.com](mailto:aalgha7@yourdomain.com)
