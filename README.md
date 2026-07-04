@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Alghamdi
 
-### **Systems Engineer | Data Scientist | AI & ML Enthusiast**
+### **Systems Engineer | Process Optimization | AI & ML Enthusiast**
 
 I specialize in building intelligent, data-driven solutions that bridge the gap between **Model-Based Systems Engineering (MBSE)**, **Deep Learning**, and **Economic Analysis**. My work focuses on automating complex engineering workflows and uncovering insights through spatial and statistical modeling.
 
@@ -35,12 +35,6 @@ I specialize in building intelligent, data-driven solutions that bridge the gap 
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalgha7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalgha7&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/abdullah-alghamdi](https://www.linkedin.com/in/abdullah-alghamdi7)
-- **Email:** [aalgha7@yourdomain.com](mailto:aalgha7@yourdomain.com)
+- **Email:** [aalgha8@gmail.com](mailto:aalgha8@gmail.com)
